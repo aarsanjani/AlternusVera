@@ -15,4 +15,6 @@ https://github.com/bs-detector/bs-detector
 
 http://compsocial.github.io/CREDBANK-data/
 
+http://www.politifact.com/
+
 
