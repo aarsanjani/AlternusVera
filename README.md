@@ -9,7 +9,9 @@ https://github.com/BuzzFeedNews/2016-10-facebookfact-check/tree/master/data
 
 https://www.cs.ucsb.edu/william/data/liardataset.zip 
 
-https://www.kaggle.com/mrisdal/fake-news 18https://github.com/bs-detector/bs-detector 
+https://www.kaggle.com/mrisdal/fake-news
+
+https://github.com/bs-detector/bs-detector 
 
 http://compsocial.github.io/CREDBANK-data/
 
