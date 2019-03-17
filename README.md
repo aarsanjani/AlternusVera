@@ -1,6 +1,6 @@
 # AlternusVera
 Alternus Vera Project
 
-Given a Dataset detect the probabilities in Vector out that the content is deliberately manufactured for misinformation.
+Given a text corpus Dataset, compute the probabilities, as a tensor, that the content was deliberately manufactured for misinformation.
 
 
