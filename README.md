@@ -1,6 +1,8 @@
 # AlternusVera
 Alternus Vera Project
 
+Also see alternusvera.com
+
 Given a text corpus Dataset, compute the probabilities, as a tensor, that the content was deliberately manufactured for misinformation.
 
 Datasets:
